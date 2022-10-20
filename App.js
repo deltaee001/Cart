@@ -7,6 +7,7 @@ export default function App(){
         <h1>New app</h1>
         <h1>Uttam PRagda</h1>
         <h2>Uttam</h2>
+        <h2>Number</h2>
         </div>
     )
 }
