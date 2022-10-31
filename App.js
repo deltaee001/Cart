@@ -8,7 +8,7 @@ export default function App(){
         <p>Studnet info</p>
         <h1>Uttam PRagda</h1>
         <h2>Uttam</h2>
-        <h2>Number</h2>
+        <h2>Numbers</h2>
         </div>
     )
 }
