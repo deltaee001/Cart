@@ -5,7 +5,7 @@ export default function App(){
         <div>
             <h1>App</h1>
         <h1>New app</h1>
-        <p>Studnet info</p>
+        <p>Studnets info</p>
         <h1>Uttam PRagda</h1>
         <h2>Uttam</h2>
         <h2>Number</h2>
